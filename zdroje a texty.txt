@@ -22,17 +22,17 @@ https://cs.wikipedia.org/wiki/Krevn%C3%AD_desti%C4%8Dka#/media/Soubor:Red_White_
 
 
 KRAJE:
-Praha:
-Støedoèeský kraj:
-Jihoèeský kraj:
-Kraj Vysoèina:
-Karlovarský kraj:
-Královéhradecký kraj:
-Zlínský kraj:
-Moravskoslezský kraj:
-Olomoucký kraj:
-Jihomoravský kraj:
+Praha:https://www.vfn.cz/pacienti/kliniky-ustavy/fakultni-transfuzni-oddeleni/aktualni-potreba-krve/
+Støedoèeský kraj:https://cckpraha1.cz/nase-cinnost/clanek/24_kde-darovat-krev-v-praze?page_type=post
+Jihoèeský kraj:http://www.nemcb.cz/pro-pacienty/darci-krve-a-kostni-drene/aktualni-potreba-odberu/
+Kraj Vysoèina:https://www.nemji.cz/informace-pro-darce/ds-1092/query=informace+pro+d%C3%A1rce&p1=1021
+Karlovarský kraj:https://nemkv.cz/transfuzn%C3%AD-odd%C4%9Blen%C3%AD.html#!/home-tab
+Královéhradecký kraj:https://www.fnhk.cz/transf
+Zlínský kraj:https://www.kntb.cz/informace-pro-darce-krve
+Moravskoslezský kraj:https://www.fno.cz/krevni-centrum/informace-pro-darce
+Olomoucký kraj:https://www.fnol.cz/kliniky-ustavy-oddeleni/transfuzni-oddeleni/pro-darce
+Jihomoravský kraj:https://www.fnbrno.cz/darcovstvi-krve/k1570
 Liberecký kraj:https://www.nemlib.cz/darovani-krve/
-Ústecký kraj:
-Pardubický kraj:
-Plzeòský kraj:
+Ústecký kraj:http://www.kzcr.eu/cz/ul/verejnost/darcovstvi-krve/
+Pardubický kraj:http://pardubice.nempk.cz/transfuzni
+Plzeòský kraj:https://www.fnplzen.cz/node/43
