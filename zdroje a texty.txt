@@ -17,6 +17,22 @@ https://cs.wikipedia.org/wiki/Krevn%C3%AD_desti%C4%8Dka#/media/Soubor:Red_White_
 1:Jsme firma, která uvádí pøehled o darování krve a krevní plazmy. Na naší webové stránce se dozvíte vše potøebné o krvi, o krevní plazmì, proè a kde ji darovat.
 2:Krev je tìlní tekutina. Její hlavní funkcí je transport. Zejména kyslíku do plic a oxidu ohlièitého z plic. Je èervená díky barvivu hemoglobin, které obsahuje. Skládá se ze dvou èástí- tekuté plazmy a z èástic (èervené krvinky- erytrocyty, bílé krvinky- leukocyty a krevní destièky- trombocyty).
 3:Krevní plazma je souèástí krve. Je to její tekutá èást, má nažloutlou barvu. Je tvoøena zejména vodou, dále organickými a anorganickými látkami.
-4:
-5:
-6:
+4:Proè darovat? Dárcù není nikdy dost. Máme štìstí, že žijeme v zemi, kde nìjací jsou. v rozvojových zemích jsou na tom hùøe. Èlovìk znenadání onemocní a bude potøebovat více krve a plazmy èi léky z ní vyrobené.
+5:Kde darovat? V Èeské republice je mnoho center, kde darovat krev èi krevní plazmu.
+
+
+KRAJE:
+Praha:
+Støedoèeský kraj:
+Jihoèeský kraj:
+Kraj Vysoèina:
+Karlovarský kraj:
+Královéhradecký kraj:
+Zlínský kraj:
+Moravskoslezský kraj:
+Olomoucký kraj:
+Jihomoravský kraj:
+Liberecký kraj:https://www.nemlib.cz/darovani-krve/
+Ústecký kraj:
+Pardubický kraj:
+Plzeòský kraj:
