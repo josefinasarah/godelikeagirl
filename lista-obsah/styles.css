@@ -24,7 +24,7 @@ body {
 .navbar a {
     float: left;
     display: block;
-    color: aliceblue;
+    color: rgb(255, 240, 240);
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
@@ -54,18 +54,18 @@ body {
 .side {
     -ms-flex: 30%;
     flex: 30%;
-    background-color: goldenrod;
+    background-color: whitesmoke;
     padding: 20px,
 }
 
 .main {
     -ms-flex: 70%;
     flex: 70%;
-    background-color: white;
+    background-color: whitesmoke;
   padding: 20px;
 }
 .fakeimg {
-    background-color: #aaa;
+    background-color: white;
     width: 100%;
     padding: 20px;
   }
