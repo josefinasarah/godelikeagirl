@@ -44,6 +44,10 @@ body {
     color: aliceblue;
 }
 
+.header h2 {
+  font-size: 40px
+}
+
 .row {
     display: -ms-flexbox;
     display: flex;
@@ -66,8 +70,8 @@ body {
 }
 .fakeimg {
     background-color: white;
-    width: 100%;
-    padding: 20px;
+    width: 50%;
+    padding: 100px;
   }
   
   .footer {
@@ -87,5 +91,3 @@ body {
       float: none;
       width: 100%;
     }
-  }
-  
