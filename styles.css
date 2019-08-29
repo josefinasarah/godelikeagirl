@@ -67,7 +67,7 @@ body {
 .fakeimg {
     background-color: white;
     width: 50%;
-    padding: 20px;
+    padding: 100px;
   }
   
   .footer {
@@ -88,4 +88,4 @@ body {
       width: 100%;
     }
   }
-  
+  .imagecontainer
