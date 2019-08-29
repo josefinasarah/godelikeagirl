@@ -44,6 +44,10 @@ body {
     color: aliceblue;
 }
 
+.header h2 {
+  font-size: 40px
+}
+
 .row {
     display: -ms-flexbox;
     display: flex;
