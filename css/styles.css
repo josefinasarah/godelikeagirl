@@ -71,7 +71,7 @@ body {
 .fakeimg {
     background-color: white;
     width: 50%;
-    padding: 20px;
+    padding: 100px;
   }
   
   .footer {
@@ -91,4 +91,4 @@ body {
       float: none;
       width: 100%;
     }
-  }
+  }  
